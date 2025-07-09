@@ -43,6 +43,21 @@ Awalnya, saya ingin membuat sebuah sistem sederhana yang bisa membantu orang mem
 streamlit run app.py
 
 
+👉 🎯 https://prediksi-harga-rumah-ilhamditaufik.streamlit.app/
+
+Silakan buka link di atas untuk mencoba langsung fitur:
+
+Input fitur rumah
+
+Pemilihan lokasi kota
+
+Prediksi harga otomatis
+
+Tampilan peta interaktif
+
+Unduh laporan PDF prediksi
+
+
 ## 🌐 Deploy
 Aplikasi ini juga bisa di-deploy gratis menggunakan **Streamlit Cloud**.
 
